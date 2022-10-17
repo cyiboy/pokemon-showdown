@@ -44,3 +44,5 @@ Login server
 The client’s login server, which handles logins and most database interaction, is written in PHP, with a rewrite to TypeScript in progress. The backend is split between a MySQL InnoDB database and a Percona database, with a migration to Postgres planned.
 
 Its entry point is [action.php](https://github.com/smogon/pokemon-showdown-client/blob/master/action.php).
+
+seguncode
